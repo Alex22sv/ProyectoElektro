@@ -32,3 +32,6 @@ bin/
 .DS_Store
 ### IntelliJ ###
 *.class
+
+### Local .jar file
+*.jar
